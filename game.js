@@ -23,15 +23,15 @@ function chooseAiHand() {
     switch (choose) {
         case 1:
             game.aiHand = "kamień";
-            console.log("kamien");
+            // console.log("kamien");
             break;
         case 2:
             game.aiHand = "papier";
-            console.log("papier");
+            // console.log("papier");
             break;
         case 3:
             game.aiHand = "nożyczki";
-            console.log("nozyczki");
+            // console.log("nozyczki");
             break;
     }
 }
