@@ -1,4 +1,3 @@
-// Zobacz gotowy projekt: https://websamuraj.pl/examples/js/projekt7/
 const gameSummary = {
     numbers: null,
     wins: null,
